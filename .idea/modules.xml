@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedAssembly.iml" filepath="$PROJECT_DIR$/AdvancedAssembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvancedAssembly_api.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvancedAssembly_api.iml" group="AdvancedAssembly" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvancedAssembly_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvancedAssembly_main.iml" group="AdvancedAssembly" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdvancedAssembly_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdvancedAssembly_test.iml" group="AdvancedAssembly" />
+    </modules>
+  </component>
+</project>

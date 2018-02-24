@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedassembly",
+  "name": "Advanced Assembly",
+  "description": "A mod that adds more complex assembling mechanisms to build machines.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://kaes3kuch3n.de/minecraft/mods/advancedassembly",
+  "updateJSON": "https://kaes3kuch3n.de/minecraft/mods/advancedassembly/update.json",
+  "authorList": ["Kaes3kuch3n"],
+  "credits": "Thanks to all people helping me building this mod!",
+  "logoFile": "assets/advancedassembly/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
